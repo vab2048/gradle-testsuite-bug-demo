@@ -1,5 +1,5 @@
 # gradle-testsuite-bug-demo
-Demo of an issue with running tests using the gradle testsuite config.
+Demo of an issue with running tests using the gradle testsuite config. Linked to this Gradle [issue](https://github.com/gradle/gradle/issues/19497).
 
 ## Background
 
